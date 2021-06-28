@@ -2,13 +2,13 @@
 // forget to add comments that specify why that server entered this list
 
 [
-  "(.+\\.)?atalentemc\\.com", // Distributes cracked Minecraft, breaks EULA and Commercial Usage Guidelines
-  "(.+\\.)?betacraft\\.org", // Breaks Commercial Usage Guidelines, does not directly distribute cracked Minecraft but instead links a cracked launcher.
-  "(.+\\.)?enderoyuncu\\.com", // Breaks Commercial Usage Guidelines
-  "(.+\\.)?gevezeoyuncu\\.com", // Breaks Commercial Usage Guidelines
-  "(.+\\.)?hiranetwork\\.com", // Breaks Commercial Usage Guidelines
-  "(.+\\.)?provanas\\.com", // Distributes cracked Minecraft, breaks EULA and Commercial Usage Guidelines
-  "(.+\\.)?reborncraft\\.pw", // Breaks Commercial Usage Guidelines
-  "(.+\\.)?saloonnetwork\\.com" // Distributes cracked Minecraft, breaks EULA and Commercial Usage Guidelines
+  "(.+\\.)+atalentemc\\.com", // Distributes cracked Minecraft, breaks EULA and Commercial Usage Guidelines
+  "(.+\\.)+betacraft\\.org", // Breaks Commercial Usage Guidelines, does not directly distribute cracked Minecraft but instead links a cracked launcher.
+  "(.+\\.)+enderoyuncu\\.com", // Breaks Commercial Usage Guidelines
+  "(.+\\.)+gevezeoyuncu\\.com", // Breaks Commercial Usage Guidelines
+  "(.+\\.)+hiranetwork\\.com", // Breaks Commercial Usage Guidelines
+  "(.+\\.)+provanas\\.com", // Distributes cracked Minecraft, breaks EULA and Commercial Usage Guidelines
+  "(.+\\.)+reborncraft\\.pw", // Breaks Commercial Usage Guidelines
+  "(.+\\.)+saloonnetwork\\.com" // Distributes cracked Minecraft, breaks EULA and Commercial Usage Guidelines
   // "(.+\\.)?sennanetwork\\.com" // I'm sure it breaks Commercial Usage Guidelines but the store was down when I checked
 ]
