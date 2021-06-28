@@ -1,0 +1,16 @@
+{
+  "name": "malicious-server-blacklist",
+  "description": "A list of Minecraft servers that\r - are against Minecraft EULA\r - are against Minecraft Commercial Usage Guidelines (aka pay-to-win)\r - are malicious (eg. IP loggers)\r - distribute harmful content\r - distribute \"cracked\" versions of the game¹",
+  "main": "build.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OxideMC/malicious-server-blacklist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OxideMC/malicious-server-blacklist/issues"
+  },
+  "homepage": "https://github.com/OxideMC/malicious-server-blacklist#readme",
+  "dependencies": {
+    "jsonc": "^2.0.0"
+  }
+}
