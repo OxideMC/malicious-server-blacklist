@@ -9,6 +9,8 @@ A list of Minecraft servers that
 
 > ¹ If a server allows "cracked" players but doesn't distribute "cracked" versions of the game, it won't enter this list.
 
+Feel free to join our [Discord Server](https://discord.gg/Hb4YUU6vcp) for any questions.
+
 ## But Mojang already does this?
 
 Their list is ineffective as they first politely ask the server owners to stop and don't take immediate action.
